@@ -3,3 +3,5 @@
 #### [线程池](./mythreadpool.cpp)
 #### [KMP](./KMP.cpp)
 #### [红黑树（IP）](./red_black_trees.cpp)
+#### [DP](./DP.cpp)
+#### [DFS&BFS](./DFS_BFS.cpp)
